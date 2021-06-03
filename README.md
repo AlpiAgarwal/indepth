@@ -1,2 +1,2 @@
 # indepth
-Editing manually. modified locally
+This line was modified while resolving conflict
